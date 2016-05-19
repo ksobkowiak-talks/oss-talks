@@ -1,0 +1,4 @@
+.asciidoctor-reveal.js/
+.decktape/
+.reveal.js/
+target/

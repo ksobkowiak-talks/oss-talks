@@ -4,7 +4,7 @@ This repository contains the slides for the talks about Open Source.
 
 == Generate the slideshow and hands-on-labs
 
-Please refer the link:BUILD.adoc[Instructions] for informations how to build and
+Please refer the link:slideshow/README.adoc[Instructions] for informations how to build and
 serve the slideshow.
 
 == Copyright and Licensing
